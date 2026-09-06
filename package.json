@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "tslib": "^2.8.1",
+    "vitepress": "^1.6.4",
+    "vitepress-sidebar": "^1.40.0"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
