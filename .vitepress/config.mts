@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 import { generateSidebar } from "vitepress-sidebar";
 
 export default defineConfig({
+  base: '/learn/',
   title: "我的笔记",
   description: "博客",
   themeConfig: {
