@@ -3,7 +3,7 @@ import { generateSidebar } from "vitepress-sidebar";
 
 export default defineConfig({
   title: "我的笔记",
-  description: "全自动生成的个人博客",
+  description: "博客",
   themeConfig: {
     // 自动扫描根目录下的文件夹生成侧边栏
     sidebar: generateSidebar({
